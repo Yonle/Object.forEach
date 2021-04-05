@@ -1,5 +1,5 @@
 {
-  "name": "object.foreach",
+  "name": "@yonle/object.foreach",
   "version": "0.0.0",
   "description": "A simple Object.forEach with Front & Backend support.",
   "main": "index.js",
