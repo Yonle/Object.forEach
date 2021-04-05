@@ -7,7 +7,7 @@ A simple Object.forEach with Front & Backend support
 First off, Load the script
 
 ```html
-<script src="https://cdn.jsdelivr.net/npm/object-foreach"></script>
+<script src="https://cdn.jsdelivr.net/npm/@yonle/object.foreach"></script>
 ```
 
 After that, Script is Ready to use.
@@ -33,7 +33,7 @@ var thisObject = {
 	bar: 'foo'
 }
 
-require('object-foreach');
+require('@yonle/object.foreach');
 
 thisObject.forEach((res, pyt) => console.log(res, pyt));
 // bar foo
