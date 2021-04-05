@@ -1,0 +1,23 @@
+{
+  "name": "object.foreach",
+  "version": "0.0.0",
+  "description": "A simple Object.forEach with Front & Backend support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/object.foreach.git"
+  },
+  "keywords": [
+    "object",
+    "foreach"
+  ],
+  "author": "Yonle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yonle/object.foreach/issues"
+  },
+  "homepage": "https://github.com/Yonle/object.foreach#readme"
+}
